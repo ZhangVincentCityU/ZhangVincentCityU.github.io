@@ -3,7 +3,8 @@ description: A minimal and beautiful Jekyll theme best for writing and note-taki
 author: Dr. Wenqi ZHANG
 avatar: /Protrait.jpg
 email: szhzhangwq@outlook.com
-
+location: BeiJing, China
+skin: Sunset
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
