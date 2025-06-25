@@ -1,8 +1,8 @@
 title: Hamilton123
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+description: A minimal and beautiful Jekyll theme best for writing and note-taking.test1231
+author: Shangzhi Huang12331234141
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: ngzhio@gmail.com123
 
 plugins:
   - jekyll-seo-tag
@@ -34,7 +34,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Shangzhi Huang
+  name: Shangzhi Huang12312
   links:
     - https://twitter.com/ngzhio
     - https://www.facebook.com/ngzhio
