@@ -1,8 +1,8 @@
-title: Hamilton123 尝试中文
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.test1231
-author: Shangzhi Huang12331234141
-avatar: /logo.png
-email: ngzhio@gmail.com123
+title: ZHANG's ZONE
+description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+author: Dr. Wenqi ZHANG
+avatar: /Protrait.jpg
+email: szhzhangwq@outlook.com
 
 plugins:
   - jekyll-seo-tag
@@ -32,12 +32,11 @@ exclude:
 twitter:
   username: ngzhio
   card: summary
-logo: logo.png
+logo: Protrait.jpg
 social:
   name: Shangzhi Huang12312
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://orcid.org/0000-0001-8142-7791
+    - https://scholar.google.com/citations?user=C6pQQsQAAAAJ&hl=en&oi=ao
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
