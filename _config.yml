@@ -7,9 +7,13 @@ location: BeiJing, China
 # skin: Sunset
 
 # Import the theme
-theme: jekyll-theme-hamilton #指定使用Hamilton主题
+# theme: jekyll-theme-hamilton #指定使用Hamilton主题
+
+# 使用 jekyll-remote-theme 远程加载主题
+remote_theme: ngzhio/jekyll-theme-hamilton # 这是 Hamilton 主题的 GitHub 仓库路径
 
 plugins:
+  - jekyll-remote-theme # 确保这个插件被启用
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
