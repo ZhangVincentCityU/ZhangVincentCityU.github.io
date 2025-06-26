@@ -1,5 +1,5 @@
-title: ZHANG's ZONE
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+title: Wenqi ZHANG's HomePage
+description: Vincent ZHANG's personal homepage and study notes.
 author: Dr. Wenqi ZHANG
 avatar: /Protrait.jpg
 email: szhzhangwq@outlook.com
@@ -38,12 +38,12 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
+#twitter:
+ # username: ngzhio
+ # card: summary
 logo: Protrait.jpg
 social:
-  name: Wenqi ZHANG
+  name: Vincent ZHANG
   links:
     - https://orcid.org/0000-0001-8142-7791
     - https://scholar.google.com/citations?user=C6pQQsQAAAAJ&hl=en&oi=ao
