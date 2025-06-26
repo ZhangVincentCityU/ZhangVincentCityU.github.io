@@ -5,6 +5,10 @@ avatar: /Protrait.jpg
 email: szhzhangwq@outlook.com
 location: BeiJing, China
 # skin: Sunset
+
+# Import the theme
+theme: jekyll-theme-hamilton #指定使用Hamilton主题
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
