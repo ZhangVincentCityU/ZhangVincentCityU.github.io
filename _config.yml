@@ -4,7 +4,7 @@ author: Dr. Wenqi ZHANG
 avatar: /Protrait.jpg
 email: szhzhangwq@outlook.com
 location: BeiJing, China
-skin: midnight
+# skin: midnight
 
 # Import the theme
 # theme: jekyll-theme-hamilton #指定使用Hamilton主题
